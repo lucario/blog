@@ -1,7 +1,8 @@
 title: Blog
 description: >- 
-  
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+
+domain: riolu.com
+baseurl: "/blog/"
 url: "https://riolu.com" 
 
 author:
