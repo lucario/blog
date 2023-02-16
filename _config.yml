@@ -5,12 +5,14 @@ domain: riolu.com
 baseurl: "/blog/"
 url: "https://riolu.com" 
 
-author:
-  name: lucario
-  email: "10692069+lucario@users.noreply.github.com"
+# author:
+#   name: lucario
+#   email: "10692069+lucario@users.noreply.github.com"
   
 minima:
   skin: auto
+  social_links:
+    - { platform: github,  user_url: "https://github.com/lucario" }
 
 remote_theme: jekyll/minima
 plugins:
