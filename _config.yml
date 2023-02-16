@@ -1,10 +1,6 @@
 title: Blog
 description: >- 
 
-domain: riolu.com
-baseurl: "/blog/"
-url: "https://riolu.com" 
-
 # author:
 #   name: lucario
 #   email: "10692069+lucario@users.noreply.github.com"
